@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 tsgdsf
 fd
 sf
 dsf
+=======
+bla bla
+blabla2
+blabla3
+>>>>>>> foods
